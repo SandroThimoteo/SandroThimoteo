@@ -16,16 +16,14 @@
   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
   ### Front-End
-  [![My Skills](https://skillicons.dev/icons?i=html,css,styledcomponents&theme=dark&&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
   ### Back-End
-  [![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs&theme=dark)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev) 
 
-  ### Tests
-  [![My Skills](https://skillicons.dev/icons?i=jest,vitest&theme=dark)](https://skillicons.dev)
 
   ### Others
   
-  [![My Skills](https://skillicons.dev/icons?i=docker,git,vite&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
  
   </div>
