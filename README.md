@@ -3,10 +3,8 @@
   
 <div align="center">
 
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-benfica/)
-  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vb_benfica/)
-  [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/VBbenfica)
-  [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Vinicius.Benfica.Ruy)
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vinicius-benfica/](https://www.linkedin.com/in/sandro-thimoteo-312511287/))
+  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/vb_benfica/](https://www.instagram.com/ssouzathimoteo/))
 </div>
 
 
@@ -15,7 +13,7 @@
   <div align="left">
 
   ### Languages
-  [![My Skills](https://skillicons.dev/icons?i=js,ts&theme=dark&&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
   ### Front-End
   [![My Skills](https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,bootstrap,jquery,html,css,sass,styledcomponents&theme=dark&&perline=5)](https://skillicons.dev)
