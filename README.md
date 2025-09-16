@@ -19,7 +19,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
   ### Back-End
-  [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark,spring)](https://skillicons.dev) 
 
 
   ### Others
