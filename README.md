@@ -24,6 +24,6 @@
 
   ### Others
   
-  [![My Skills](https://skillicons.dev/icons?i=git,postman,idea,vscodefigma)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,postman,idea,vscode,figma)](https://skillicons.dev)
  
   </div>
