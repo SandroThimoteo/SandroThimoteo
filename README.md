@@ -13,17 +13,17 @@
   <div align="left">
 
   ### Languages
-  [![My Skills](https://skillicons.dev/icons?i=js,java,c,ts)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,java,c,ts,mysql,lua)](https://skillicons.dev)
 
   ### Front-End
   [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
   ### Back-End
-  [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) 
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,spring)](https://skillicons.dev) 
 
 
   ### Others
   
-  [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=git,postman,idea,vscodefigma)](https://skillicons.dev)
  
   </div>
