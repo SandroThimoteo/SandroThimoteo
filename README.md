@@ -3,8 +3,8 @@
   
 <div align="center">
 
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vinicius-benfica/](https://www.linkedin.com/in/sandro-thimoteo-312511287/))
-  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/vb_benfica/](https://www.instagram.com/ssouzathimoteo/))
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-marcos-thimoteo-4144233a3/)
+  [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ssouzathimoteo/)
 </div>
 
 
