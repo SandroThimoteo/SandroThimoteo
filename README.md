@@ -13,7 +13,7 @@
   <div align="left">
 
   ### Languages
-  [![My Skills](https://skillicons.dev/icons?i=js,java,c,ts,mysql,lua,react.net,c#)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,java,c,ts,mysql,lua,reacr,.net)](https://skillicons.dev)
 
   ### Front-End
   [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
